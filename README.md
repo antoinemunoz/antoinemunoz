@@ -1,5 +1,5 @@
 <h3 align="center">A passionate developer from Nice | France. 🇫🇷</h3>
-- 📫 How to reach me: [antoine.munoz@epitech.eu](mailto:antoine.munoz@epitech.eu)
+- 📫 How to reach me: antoine.munoz@epitech.eu
 
 <h2 align="center">My Projects</h2>
 <p align="center">
